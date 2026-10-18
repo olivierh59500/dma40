@@ -1,0 +1,23 @@
+{
+  "bundle_sha256": "019415bbf8372ad2ffd45678b667507be723176590e38b7daad44c47ac330122",
+  "files_sha256": {
+    "ball.png": "0ff1139149a559ab5dbd51b96531755806c70236a4ab136aa9ba810504e310db",
+    "bars.png": "5b733d6ffbaa642fafc85130d842c6ff6e7a69b3333a00c9e87033dd1c092395",
+    "chrome.png": "d25aedb93df3c6d74367e27fabf1313f77a9e27dbd320ca0dae069ddca8613cc",
+    "font-grey.png": "9b101d9b0c66d9fdec04018e398063373068b4991fef560596b8d82cb333263f",
+    "loader.ogg": "91278bf16ea3dcaf43eb22c4c2c64f2ab72830da0ff74dba0a721cd8c3ee9d8b",
+    "logo.png": "e162b8f5c61dbc8a83272d96525bb15cfe4415794f1ca0f51c4ee8c6d74da023",
+    "music.ym": "e03ddc3b752fea1f556ba8eb970d41be7c41e35499b9d0da9f6793f27ea97695",
+    "union-font.png": "f42286735dd779401de42a89a2859c1f96b6aacdddb0989acdf9ab790e1559f0"
+  },
+  "inputs_sha256": {
+    "ball.png": "3b1df10486c540064cf0b7ccb3599e26588c88d7eff93502f0ff3e6e28189c57",
+    "bars.png": "5b733d6ffbaa642fafc85130d842c6ff6e7a69b3333a00c9e87033dd1c092395",
+    "chrome.png": "d25aedb93df3c6d74367e27fabf1313f77a9e27dbd320ca0dae069ddca8613cc",
+    "font-grey.png": "9b101d9b0c66d9fdec04018e398063373068b4991fef560596b8d82cb333263f",
+    "loader.ogg": "91278bf16ea3dcaf43eb22c4c2c64f2ab72830da0ff74dba0a721cd8c3ee9d8b",
+    "logo.png": "8103cc11c745ca897fd54f2a80b1e121bc509a586197cc2478f71a52b39e2099",
+    "music.ym": "e03ddc3b752fea1f556ba8eb970d41be7c41e35499b9d0da9f6793f27ea97695",
+    "union-font.png": "f42286735dd779401de42a89a2859c1f96b6aacdddb0989acdf9ab790e1559f0"
+  }
+}
